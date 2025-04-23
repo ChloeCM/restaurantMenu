@@ -22,4 +22,5 @@ const menuArray = [
     }
 ]
 
-export default menuArray
+export default menuArray;
+
